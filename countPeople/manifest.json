@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "version": "6.9",
+    "name": "Counter vip",
+    "action": {
+        "default_popup": "index.html"
+    }
+}
